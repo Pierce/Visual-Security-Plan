@@ -13,6 +13,6 @@ This was built in Visio and has the following design intent"
 
 On each overview tab the circles are linked to other pages. The intent is that someone could drill down to the details until they get so a specific type of control for a specific type of device. For example, clicking on Managed Devices will bring up a tab that shows some types of managed devices. Clicking on Workstations will bring up a tab with different types of controls and clicking on those would bring up a page with a summary about that control with a link to more information.
 
-If you want to test this the following clickable path has demo data:
+If you want to test this the following clickable path has demo data:<BR/>
   Managed Devices > Workstations > Patching
  
