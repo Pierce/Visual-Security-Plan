@@ -3,8 +3,6 @@ A visual network security plan template to show what is being done, what should 
 
 This is a work in progress but is at a point where the idea can be shared for additional input. The goal is to represent technical security in a way that non-technical people can understand and to facilitate conversations around what to do next.
 
-This was built in Visio and has the following design intent"
-
 1. The Security tab covers the mental model I use for Information Security. I haven't adapted it to this document, I use the version shown during training for new Management staff.
 
 2. There are two overviews in this document, I am trying two different ways to represent the overall status.<BR/>
